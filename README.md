@@ -1,1 +1,1 @@
-# -launch-an-EBS-optimized-EC2-instance
+### launch-an-EBS-optimized-EC2-instance
